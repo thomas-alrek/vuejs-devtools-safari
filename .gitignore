@@ -1,0 +1,5 @@
+.DS_Store
+Resources
+node_modules
+Vue.js*devtools
+dist
